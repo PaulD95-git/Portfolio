@@ -6,6 +6,7 @@
     box-sizing: border-box;
   }
 
+  /* Body */
   body {
     font-family: 'Montserrat', sans-serif;
     background: linear-gradient(to right, #6a11cb, #2575fc);
@@ -13,3 +14,11 @@
     padding: 0;
     color: #fff;
   }
+
+  /* Navigation */
+  nav{
+    background: #0082e6;
+    height: 80px;
+    width: 100%;
+    z-index: 1000;
+    position: relative;
