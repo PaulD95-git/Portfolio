@@ -65,3 +65,14 @@
       #check{
         display: none;
       }
+
+      @media (max-width: 952px){
+        /* Navigation */
+        label.logo{
+          font-size: 30px;
+          padding-left: 50px;
+          padding: 0 50px;
+        }
+        nav ul li a{
+          font-size: 16px;
+        }
