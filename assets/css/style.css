@@ -5,3 +5,11 @@
     list-style: none;
     box-sizing: border-box;
   }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    margin: 0;
+    padding: 0;
+    color: #fff;
+  }
