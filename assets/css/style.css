@@ -76,6 +76,7 @@
         nav ul li a{
           font-size: 16px;
         }
+    }
 
         @media (max-width: 768px){
             /* Navigation */
@@ -112,4 +113,5 @@
               #check:checked ~ ul{
                 left: 0;
               }
+            }
            
