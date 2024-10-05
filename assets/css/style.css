@@ -109,6 +109,12 @@
     font-weight: 300; 
   }
 
+  /* About us */
+#about {
+  width: 100%;
+  margin: auto;
+}
+
 
       @media (max-width: 952px){
         /* Navigation */
