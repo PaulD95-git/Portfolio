@@ -141,6 +141,17 @@
   height: 400px;
 }
 
+#enjoyment > div,
+#aboutus > div {
+  line-height: 20px;
+  margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.1); 
+  padding: 20px;
+  border-radius: 10px;               
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
 
       @media (max-width: 952px){
         /* Navigation */
